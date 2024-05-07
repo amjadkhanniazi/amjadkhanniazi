@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Amjad Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
+<a href='https://amjadkhanniazi.github.io/my-cv/'>
 <img align="right" alt="Coding_gif_img" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVkM2F0ZWZ4cjdpcWVvc20zcjVmbXlwY2h1Z21ldmpmaTQyNjYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadkhanniazi&label=Profile%20views&color=0e75b6&style=flat" alt="amjadkhanniazi" /> </p>
 

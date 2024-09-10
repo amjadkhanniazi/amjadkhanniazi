@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://amjadkhanniazi.github.io/my-cv/](https://amjadkhanniazi.github.io/my-cv/)
+- 👨‍💻 See my portfolio Website at [https://amjadkhanniazi.github.io/my-cv/](https://amjadkhanniazi.github.io/my-cv/)
 
 - 📫 How to reach me **amjadkhanniazi010@gmail.com**
 
